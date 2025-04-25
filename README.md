@@ -3,6 +3,12 @@ Our Virtual Library allows users to create an account in our system, checkout up
 
 Contributors: Sarah Sweet and Jared Sanders
 
+Classes
+Book - Sarah Sweet
+User - Sarah Sweet
+Library - Jared Sanders
+LibraryGUI - Jared Sanders
+
 *
  * Project: Virtual Library
  * Author: Sarah Sweet
